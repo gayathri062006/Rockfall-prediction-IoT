@@ -17,7 +17,7 @@ Built with Arduino and simulated on Wokwi.
 - Buzzer, LEDs, Resistors, Jumper wires
 
 ## Simulation
-Wokwi project link: (paste your Wokwi URL here)  
+Wokwi project link: https://wokwi.com/projects/450597270834617345  
 
 ## Code
 Main file: rockfall_prediction.ino  
